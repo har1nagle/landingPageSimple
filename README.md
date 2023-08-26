@@ -1,8 +1,8 @@
 # landingPageSimple
 it is simple e commerce page use HTML, CSS just practice or revision
 
-# Just page for practice ```HTML, CSS```
-
+# Just page for practice ```HTML, CSS``` // features
+* this all and fully responsive design
 * simple and easy
 * this not dynamic page all static page here
 
